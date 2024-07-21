@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>style/style.qss</file>
+        <file>btn_pic/next_hover.png</file>
+        <file>btn_pic/next_normal.png</file>
+        <file>btn_pic/next_pressed.png</file>
+        <file>btn_pic/pre_hover.png</file>
+        <file>btn_pic/pre_normal.png</file>
+        <file>btn_pic/pre_pressed.png</file>
+    </qresource>
+</RCC>
